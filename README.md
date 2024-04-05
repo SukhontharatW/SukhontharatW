@@ -1,12 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sukhontharat Wetthaisong
 ================================================================================================================================================
 
-Software Engineer
------------------
-
-I have background in coding for hardwares for 9 years, currently I’m expanding my knowledge in coding for human such as coding to make websites, applications. More than just coding, I came a cross learning how to design websites using a Web designer’s tool like Figma, then along the way I also design logos for websites. I found that I need to use 3-4 of them for a website. Web development has given me a great journey and I love it. 🥰 I especially like how it brings my creativity out to the world. I consider myself a creative person.🤭 “I want to create beautiful things to this world”
-
-* 🌍  I'm based in Thailand
+* 🌍  I'm Software Engineer based in Korat, Thailand
 * ✉️  You can contact me at [sukhontharat.w@gmail.com](mailto:sukhontharat.w@gmail.com)
 
 ### Skills
