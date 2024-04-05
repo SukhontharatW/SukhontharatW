@@ -2,6 +2,8 @@ Hello, my name is Sukhontharat Wetthaisong
 ================================================================================================================================================
 
 * 🌍 I am a Software Engineer, based in Korat, Thailand. 
+* 👩🏻‍💻 I have 9-year experience coding for Hard Disk Drive manufacturer, I am currently looking for gainning my career in Web Development.
+* 🤍 I want to create beautiful things to this world.
 * ✉️  You can contact me at [sukhontharat.w@gmail.com](mailto:sukhontharat.w@gmail.com)
 
 ### Skills
