@@ -6,7 +6,7 @@ Highly skilled Software Engineer with 9 years of experience specializing in soft
 disk drives (HDD). Proficient in web development technologies, including JavaScript, React, HTML, and CSS.
 Committed to continuous learning and eager to leverage engineering and web development skills to
 contribute value to your company.
-* ✉️  You can contact me at [sukhontharat.w@gmail.com](mailto:sukhontharat.contact@gmail.com)
+* ✉️  You can contact me at [sukhontharat.contack@gmail.com](mailto:sukhontharat.contact@gmail.com)
 
 ### Skills
 
