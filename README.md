@@ -7,7 +7,7 @@ disk drives (HDD). Proficient in web development technologies, including JavaScr
 Committed to continuous learning and eager to leverage engineering and web development skills to
 contribute value to your company.
 * 💻 My portfolio : https://sukhontharat.netlify.app/
-* ✉️  You can contact me at [sukhontharat.contack@gmail.com](mailto:sukhontharat.contact@gmail.com)
+* ✉️  You can contact me at [sukhontharat.contact@gmail.com](mailto:sukhontharat.contact@gmail.com)
 
 ### Skills
 
