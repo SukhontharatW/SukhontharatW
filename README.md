@@ -1,8 +1,7 @@
 Hello, my name is Sukhontharat Wetthaisong
 ================================================================================================================================================
 
-* 🌍 I am a Software Engineer, based in Korat, Thailand. 
-Highly skilled Software Engineer with 9 years of experience specializing in software development for hard
+* 🌍 Highly skilled Software Engineer with 9 years of experience specializing in software development for hard
 disk drives (HDD). Proficient in web development technologies, including JavaScript, React, HTML, and CSS.
 Committed to continuous learning and eager to leverage engineering and web development skills to
 contribute value to your company.
