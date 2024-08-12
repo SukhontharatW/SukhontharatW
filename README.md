@@ -1,11 +1,20 @@
 Hello, my name is Sukhontharat Wetthaisong
 ================================================================================================================================================
 
-* 🌍 Highly skilled Software Engineer with 9 years of experience specializing in software development for hard
-disk drives (HDD). Proficient in web development technologies, including JavaScript, React, HTML, and CSS.
-Committed to continuous learning and eager to leverage engineering and web development skills to
-contribute value to your company.
-* 💻 My portfolio : https://sukhontharat.netlify.app/
+* 🌍 Hi I'm Sukhontharat, A passionate developer with 9 years of experience in software development
+* 🤍 **Key Technical Skills**
+
+  **Programming language, Framework, Library** : Python, JavaScript, HTML, CSS, SASS, Styled-Components, TailwindCSS, React, XML, JSON, Node.js, Express
+  
+  **Database** : Supabase (Postgres database), MongoDB(NoSQL)
+  
+  **Software Version Contro**: Git , Perforce
+  
+  **Tool**: Figma, VS code, Chrome Developer Tools, Google Lighthouse, Netlify, Render, Thunder Client
+  
+  **Development Methodologies** : RESTful API, Responsive Website, UI/UX design
+  
+* 💻 My portfolio : https://sukhontharat-portfolio.onrender.com/
 * ✉️  You can contact me at [sukhontharat.contact@gmail.com](mailto:sukhontharat.contact@gmail.com)
 
 ### Skills
