@@ -1,7 +1,7 @@
 Hello, my name is Sukhontharat Wetthaisong
 ================================================================================================================================================
 
-* 🌍 Hi I'm Sukhontharat, A passionate developer with 9 years of experience in software development
+* 🌍 A passionate developer with 9 years of experience in software development
 * 🤍 **Key Technical Skills**
 
   **Programming language, Framework, Library** : Python, JavaScript, HTML, CSS, SASS, Styled-Components, TailwindCSS, React, XML, JSON, Node.js, Express
